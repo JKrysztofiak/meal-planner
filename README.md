@@ -1,4 +1,4 @@
-# mealPlaner
+# mealPlanner
 
 Meal Planner 
 
